@@ -1,4 +1,5 @@
 # io-binary
+[![CircleCI](https://circleci.com/gh/taylorfinnell/io-binary.svg?style=svg)](https://circleci.com/gh/taylorfinnell/io-binary)
 
 An IO implementation that supports bit level reading.
 
